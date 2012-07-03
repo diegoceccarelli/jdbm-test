@@ -34,7 +34,7 @@ where am I wrong?
 :( 
 
 ## Test ##
-if you want to test download the [titles](http://www.di.unipi.it/~ceccarel/enwiki-pages-titles.tsv.gz) in 
+if you want to test please download the [titles](http://www.di.unipi.it/~ceccarel/enwiki-pages-titles.tsv.gz), and put them in 
 ''src/test/resources''. 
 
 ## JDBM 2.4 ##
